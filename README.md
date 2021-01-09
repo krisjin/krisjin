@@ -1,6 +1,6 @@
 ### 跳动的数据
 
-<img src="./img/dance_data.png" height="100px" width="400px" >
+<img src="./img/dance_data.png" height="400px" width="400px" >
 <!--
 **krisjin/krisjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
